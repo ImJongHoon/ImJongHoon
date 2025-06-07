@@ -66,9 +66,9 @@ Python과 LLM 기술에도 관심이 있어 프로젝트를 진행하고 있습�
 
 - **핵심 기술**: React, TypeScript, Zustand, Tanstack Query, Vite
 - **주요 기능**: 
-  - 🏢 기업 분석 시스템
-  - 📝 자기소개서 초안 작성 및 피드백 챗봇
-  - 🎤 면접 예상 질문 생성 및 모의면접
+  - 기업 분석 시스템
+  - 자기소개서 초안 작성 및 피드백 챗봇
+  - 면접 예상 질문 생성 및 모의면접
 
 ---
 
@@ -85,10 +85,10 @@ Python과 LLM 기술에도 관심이 있어 프로젝트를 진행하고 있습�
 
 - **핵심 기술**: React, TypeScript, Recoil, Tanstack Query, Vite, Spring, Fast API, Zonos TTS
 - **주요 기능**: 
-  - 📖 스토리 입력으로 스크립트 자동 생성
-  - 🖼️ AI 기반 이미지 생성
-  - 🎵 TTS 음성 생성
-  - 🎥 FFMPEG 영상 자동 편집
+  - 스토리 입력으로 스크립트 자동 생성
+  - AI 기반 이미지 생성
+  - TTS 음성 생성
+  - FFMPEG를 통한 영상 자동 편집
 
 ---
 
