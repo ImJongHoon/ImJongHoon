@@ -54,7 +54,7 @@ Python과 LLM 기술에도 관심이 있어 프로젝트를 진행하고 있습�
 ## 💼 Main Projects
 
 ### Project 1: [Hello Job](https://github.com/ImJongHoon/HelloJob)
-> **기간**: 2024.04.14 ~ 2024.05.22 (39일간 진행)
+> **기간**: 2025.04.14 ~ 2025.05.22 (39일간 진행)
 
 <div align="center">
   
@@ -73,7 +73,7 @@ Python과 LLM 기술에도 관심이 있어 프로젝트를 진행하고 있습�
 ---
 
 ### Project 2: [쇼쇼숏](https://github.com/ImJongHoon/shoshoshorts)
-> **기간**: 2024.02.24 ~ 2024.04.11 (47일간 진행)
+> **기간**: 2025.02.24 ~ 2025.04.11 (47일간 진행)
 
 <div align="center">
   
@@ -93,7 +93,7 @@ Python과 LLM 기술에도 관심이 있어 프로젝트를 진행하고 있습�
 ---
 
 ### Project 3: [UndAIed](https://github.com/ImJongHoon/UndAIed)
-> **기간**: 2024.01.02 ~ 2024.02.21 (51일간 진행)
+> **기간**: 2025.01.02 ~ 2025.02.21 (51일간 진행)
 
 <div align="center">
   
