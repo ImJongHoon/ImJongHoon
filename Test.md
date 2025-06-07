@@ -14,6 +14,7 @@ Python과 LLM 기술에도 관심이 있어 프로젝트를 진행하고 있습�
 
 ## 📋 Table of Contents
 - [🛠️ Tech Stack](#️-tech-stack)
+- [📊 GitHub Stats](#-github-stats)
 - [🏆 Algorithm](#-algorithm)
 - [💼 Main Projects](#-main-projects)
 - [🔗 Connect with Me](#-connect-with-me)
@@ -37,6 +38,18 @@ Python과 LLM 기술에도 관심이 있어 프로젝트를 진행하고 있습�
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImJongHoon&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJongHoon&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
